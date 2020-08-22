@@ -7,5 +7,5 @@ alias sn="sudo shutdown now"
 alias rn="sudo reboot now"
 
 # arch specific aliases
-alias pacR="sudo pacman -Rns"
+alias pacr="sudo pacman -Rns"
 
