@@ -8,6 +8,6 @@ alias sdn="shutdown now"
 alias rbn="reboot now"
 
 # arch specific aliases
+alias pacs="sudo pacman -Syu"
 alias pacr="sudo pacman -Rns"
-alias pacug="sudo pacman -Syyu"
 
