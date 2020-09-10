@@ -5,6 +5,6 @@ Use this command to add the aliases to your terminal:\
 For aliases specific to Arch linux systems you can also add the file for arch aliase.
 Its recommend you add these right after the regular aliases.
 Use this command to add them:\
-` tinyurl.com/archaliases `
+` curl -L tinyurl.com/archaliases >> ~/.bashrc `
 
 After running either of these commands you will need to exit terminal before they can be used.
