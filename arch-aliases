@@ -1,4 +1,3 @@
-
 # arch specific aliases
 alias pacs="sudo pacman -Syu"
 alias pacr="sudo pacman -Rns"
