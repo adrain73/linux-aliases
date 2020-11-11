@@ -1,10 +1,10 @@
 # Linux Aliases
 Use this command to add the aliases to your terminal:\
-` curl -L tinyurl.com/aialiases >> ~/.bashrc `
+` curl -sL tinyurl.com/aialiases >> ~/.bashrc `
 
 For aliases specific to Arch linux systems you can also add the file for arch aliase.
 Its recommend you add these right after the regular aliases.
 Use this command to add them:\
-` curl -L tinyurl.com/archaliases >> ~/.bashrc `
+` curl -sL tinyurl.com/archaliases >> ~/.bashrc `
 
-After running either of these commands you will need to exit terminal before they can be used.
+These aliases will not be useable in any terminals already open but will work in any new terminal instance.
