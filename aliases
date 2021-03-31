@@ -1,4 +1,4 @@
-# aliases from github.com/Adraelsen/linux-aliases
+# aliases from github.com/adrain73/linux-aliases
 alias c="clear"
 alias e="exit"
 alias ll="ls -l"
