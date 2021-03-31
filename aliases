@@ -5,4 +5,6 @@ alias ll="ls -l"
 alias la="ls -la"
 alias sdn="sudo shutdown now"
 alias rbn="sudo reboot now"
+alias hc="history -c"
+alias empty-histoyr="cat /dev/null > ~/.bash_history"
 
