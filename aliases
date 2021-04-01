@@ -1,10 +1,10 @@
 # aliases from github.com/adrain73/linux-aliases
-alias c="clear"
-alias e="exit"
-alias ll="ls -l"
-alias la="ls -la"
-alias sdn="sudo shutdown now"
-alias rbn="sudo reboot now"
-alias hc="history -c"
-alias ephs="cat /dev/null > ~/.bash_history"
+alias c="echo clear && clear"
+alias e="echo exit && exit"
+alias ll="echo ls -l && ls -l"
+alias la="echo ls -la && ls -la"
+alias sdn="echo sudo shutdown now && sudo shutdown now"
+alias rbn="echo sudo reboot now && sudo reboot now"
+alias hc="echo history -c && history -c"
+alias ephs="echo emptying ~/.bash_history && cat /dev/null > ~/.bash_history"
 
