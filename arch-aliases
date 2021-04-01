@@ -1,4 +1,4 @@
 # arch specific aliases
-alias pacs="sudo pacman -Syu"
-alias pacr="sudo pacman -Rns"
+alias pacs="echo sudo pacman -Syu && sudo pacman -Syu"
+alias pacr="echo sudo pacman -Rns && sudo pacman -Rns"
 
