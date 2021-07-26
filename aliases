@@ -6,5 +6,5 @@ alias la="echo ls -la && ls -la"
 alias sdn="echo sudo shutdown now && sudo shutdown now"
 alias rbn="echo sudo reboot now && sudo reboot now"
 alias hc="echo history -c && history -c"
-alias ephs="echo emptying ~/.bash_history && cat /dev/null > ~/.bash_history"
+alias emphist="echo emptying ~/.bash_history && cat /dev/null > ~/.bash_history"
 
